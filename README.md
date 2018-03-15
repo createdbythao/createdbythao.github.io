@@ -7,7 +7,6 @@ Check out the new porfolio that we made. It's got the most up to date and curren
 
 ## Bugfixes / To Do
 About page
-- [ ] Update copy to reflect more on resume.
 - [ ] Add an updated picture to about page.
 
 Contact page
@@ -20,7 +19,3 @@ Footer (all pages)
 Mobile
 - [ ] Find out why the table image is top right in landscape.
 - [ ] Landscape on mobile could use more work.
-
-Copy
-
-- [ ] Replaced copy of ```AlphaBlocks prototype can be accessed``` to ```To view a prototype of this project```.
